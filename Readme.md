@@ -1,6 +1,10 @@
 # Inventory Management System
 
-A Java-based desktop application for managing inventory, built using Swing and JDBC. This project allows users to add, update, and view inventory items with an easy-to-use graphical interface.
+- A Java-based desktop application for managing inventory, built using Swing and JDBC. This project allows users to add, update, and view inventory items with an easy-to-use graphical interface.
+
+- This project was developed by @aloks1490 and @  .
+
+- check out [Alok Singh's GitHub profile](https://github.com/aloks1490).
 
 ## Features
 
