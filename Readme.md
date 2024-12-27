@@ -71,5 +71,7 @@ A Java-based desktop application for managing inventory, built using Swing and J
 - Click "Clear All Items" to delete all inventory data (requires confirmation).
 
 ---
-
+#### Team members
+-github.com/aloks1490
+-github.com/
 
