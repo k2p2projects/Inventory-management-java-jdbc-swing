@@ -5,7 +5,7 @@
 - This project was developed by @aloks1490 and @  .
 
 - check out [Alok's GitHub profile](https://github.com/aloks1490).
-- check out [Kanchan's GitHub profile](https://github.com/aloks1490).
+- check out [Kanchan's GitHub profile](https://github.com/k2p2projects).
 
 ## Features
 
