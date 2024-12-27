@@ -72,5 +72,4 @@ A Java-based desktop application for managing inventory, built using Swing and J
 
 ---
 
-## Project Structure
 
