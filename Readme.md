@@ -2,7 +2,7 @@
 
 - A Java-based desktop application for managing inventory, built using Swing and JDBC. This project allows users to add, update, and view inventory items with an easy-to-use graphical interface.
 
-- This project was developed by alok singh and kanchan patkar  .
+- This project was developed by **alok singh** and **kanchan patkar**.
 
 - check out [Alok's GitHub profile](https://github.com/aloks1490).
 - check out [Kanchan's GitHub profile](https://github.com/k2p2projects).
