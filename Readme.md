@@ -76,7 +76,5 @@
 - Click "Clear All Items" to delete all inventory data (requires confirmation).
 
 ---
-#### Team members
-- github.com/aloks1490
-- github.com/
+
 
