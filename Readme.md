@@ -72,6 +72,6 @@ A Java-based desktop application for managing inventory, built using Swing and J
 
 ---
 #### Team members
--github.com/aloks1490
--github.com/
+- github.com/aloks1490
+- github.com/
 
