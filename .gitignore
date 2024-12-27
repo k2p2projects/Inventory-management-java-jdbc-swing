@@ -3,6 +3,7 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 SWINGPROJECT.iml
-.idea
+.idea/
 out
+.idea
 
