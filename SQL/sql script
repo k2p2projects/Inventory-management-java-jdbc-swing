@@ -1,0 +1,18 @@
+-- Create the database
+CREATE DATABASE IF NOT EXISTS inventory_management;
+USE inventory_management;
+
+-- Create the inventory table
+CREATE TABLE IF NOT EXISTS inventory (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    item_name VARCHAR(255) NOT NULL,
+    item_quantity INT NOT NULL,
+    item_cost DOUBLE NOT NULL
+);
+
+-- Insert sample data (optional)
+INSERT INTO inventory (item_name, item_quantity, item_cost)
+VALUES
+    ('Example Item 1', 100, 10.5),
+    ('Example Item 2', 200, 15.0),
+    ('Example Item 3', 50, 25.0);
