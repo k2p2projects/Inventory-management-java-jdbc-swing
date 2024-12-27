@@ -4,8 +4,9 @@
 
 - This project was developed by **alok singh** and **kanchan patkar**.
 
-- check out [Alok's GitHub profile](https://github.com/aloks1490).
 - check out [Kanchan's GitHub profile](https://github.com/k2p2projects).
+- check out [Alok's GitHub profile](https://github.com/aloks1490).
+
 
 ## Features
 
